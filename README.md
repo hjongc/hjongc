@@ -1,1 +1,3 @@
-https://velog-readme-stats.vercel.app/api/redirect?name=hjongc&tag=github
+[![Velog's GitHub stats](https://velog-readme-stats-git-develop-eungyeole.vercel.app/api/badge?name=hjongc)](https://velog.io/@hjongc) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hjongc&tag=github)](https://velog.io/@hjongc)
