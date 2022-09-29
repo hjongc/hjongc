@@ -1,7 +1,5 @@
 # 🍕 채현종 (Chai, HyeonJong)
 
-<br/>
-
 ### 🙋‍♂️ Keyword
 
 - Data Science, Machine Learning, A.I.
