@@ -30,3 +30,4 @@
 ### 📞 Contacts
 
 - e-mail: chj7785@gmail.com
+- blog: https://velog.io/@hjongc
