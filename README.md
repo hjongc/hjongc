@@ -16,11 +16,21 @@
 
 - 어크로스비(acrossB)
 	- 2021.12 ~ 2022.02
-  	- Intern
+  - Intern
 	- Data Scientist
  	- Feature Engineering & Time Series Modelling
-    
+
 ---
+### 💻 Project
+
+- Sentence to Painting (AI 그림제작 서비스), 2021
+- K사 Rakuten 판매예측 모델 개발, 202
+- 업종 특화 휴폐업 예측 모델 개발, 2022
+- 천연가스 수요예측 모델 개발, 2022
+- 농산물 가격변동률 예측 모델 개발, 2022
+
+---
+
 ### 📄 Certificate
 
 - 빅데이터분석기사 (Bigdata Analysis Engineer)
@@ -29,5 +39,12 @@
 ---
 ### 📞 Contacts
 
-- e-mail: chj7785@gmail.com
-- blog: https://velog.io/@hjongc
+- e-mail : <a href="mailto:자신의이메일"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chj7785@gmail.com"/></a>
+
+- blog :  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hjongc)](https://velog.io/@hjongc) 
+
+  
+
+  
+
+  
