@@ -12,6 +12,7 @@
 	- 소프트웨어학 부전공 (Minored in Software Engineering)
 
 - SSAFY (Samsung SW Academy For Youth)
+	- 자바(Java) 과정
 	- 2023.01.04 ~
 
 ---
