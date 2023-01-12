@@ -48,7 +48,7 @@
 ---
 <div align=center>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hjongc&color=white)](https://velog.io/@zaman17)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hjongc&color=white)](https://velog.io/@hjongc)
 
 </div>
 
