@@ -6,10 +6,13 @@
 - Data Science, Machine Learning, A.I.
 
 ---
-### 📚 School
+### 📚 Education
 - 국민대학교 (Kookmin University, South Korea)
 	- 경제학 전공 (Majored in Economics)
 	- 소프트웨어학 부전공 (Minored in Software Engineering)
+
+- SSAFY (Samsung SW Academy For Youth)
+	- 2023.01.04 ~
 
 ---
 ### 💼 Work
