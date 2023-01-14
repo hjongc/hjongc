@@ -27,7 +27,7 @@
 ---
 ### 💻 Project
 
-- Sentence to Painting (AI 그림제작 서비스), 2021
+- Word to Art (AI 그림제작 서비스), 2021
 - K사 Rakuten 수요예측 모델 개발, 2021
 - 업종 특화 휴폐업예측 모델 개발, 2022
 - 천연가스 수요예측 모델 개발, 2022
