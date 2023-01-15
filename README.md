@@ -4,6 +4,7 @@
 ### 🙋‍♂️ Keyword
 
 - Data Science, Machine Learning, A.I.
+- Backend, Data Engineering
 
 ---
 ### 📚 Education
