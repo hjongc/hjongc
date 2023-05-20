@@ -48,8 +48,7 @@
 
 ---
 <div align=center>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hjongc&color=white)](https://velog.io/@hjongc)
-
 </div>
-
+<br/>
+<img src="https://avatars.githubusercontent.com/u/72199470?v=4" width="100px;" alt=""/><br/>
