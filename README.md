@@ -2,9 +2,7 @@
 
 **사용자 이야기를 듣고, 기준을 세워 측정하고, 결정합니다.**
 
-데이터 엔지니어로 2년, AI 에이전트 엔지니어로 1년째 직접 만들어 왔습니다.
-평가할 기준을 먼저 만들고, 측정 결과와 사용자에게 들은 이야기를 보고 무엇을 남기고 뺄지 정합니다.
-사용자가 계속 쓰는 서비스를 만들고 싶습니다.
+AI 에이전트와 데이터 플랫폼을 만들어 왔습니다. 사용자가 계속 쓰는 서비스를 만들고 싶습니다.
 
 <a href="mailto:chaihyeonjong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -12,48 +10,29 @@
 
 ## 경력
 
-**SK주식회사 AX** — AI Software Engineer (2026.01 – 현재)
+**SK주식회사 AX** (2024.01 – 현재)
+- AI Software Engineer — 반도체 증착 특성 예측 AI 에이전트 개발
+- Data Platform Engineer — 실시간 데이터 플랫폼 운영
 
-- 반도체 소재 연구원이 신소재 후보의 증착 특성을 미리 가늠하는 LLM 에이전트를 만들고 있습니다. 5인 팀에서 방향과 채택 판정, 설계와 개발을 맡았습니다.
-- 정확도를 확인할 실측 데이터가 부족해, 예측 평가용 정답 데이터와 추출 검증 세트부터 만들었습니다.
-- 비용만 늘고 오차는 줄지 않던 기능을 측정으로 확인해 뺐고, 연구원의 반복 탐색 방식에 맞춰 빠른 모드를 채택했습니다.
-
-**SK주식회사 AX** — Data Platform Engineer (2024.01 – 2025.12)
-
-- SKT 통신 CRM 데이터를 처리하는 실시간 데이터 플랫폼(Flink, Kafka)을 2년간 운영했습니다.
-- 일 배치로만 보던 긴급 현황을 하룻밤 사이 실시간 플랫폼에 연동해, 다음 날 아침부터 30분 주기로 제공했습니다.
-- 반복되던 파싱 오류를 막고 오프셋 복구 설정을 개선해, 이후 데이터 유실을 없앴습니다.
-
-**어크로스비** — 개발실 인턴, 수요예측 모델링 (2021.12 – 2022.02)
-
-- 이커머스 수요예측 팀에서 DeepAR 등 시계열 모델을 실험했습니다.
-- 공용 학습 서버에 실험이 몰려 실패하던 문제를 실험 요청 큐로 풀어, 도입 전후 7일 비교에서 테스트 횟수가 약 2.5배 늘었습니다.
+**어크로스비** (2021.12 – 2022.02)
+- 인턴 — 이커머스 수요예측 모델링
 
 ## 프로젝트
 
-**[휙(H-uick)](https://github.com/hjongc/H-uick)** — 간편 차용증 서비스 (2023)
-
-- 친구 사이에 차용증을 쓰자고 꺼내기 부담스러운 문제를, 이미 나눈 대화를 활용하는 방식으로 풀었습니다.
-- 대화나 카카오톡 캡처만으로 차용증을 만들고 서명하는 서비스입니다. 삼성 청년 SW 아카데미 6인 팀에서 아이디어를 제안하고 기획과 AI 기능을 맡았습니다.
-- 서비스 배포, 프로젝트 우수상(1등)
-
-## 사이드 프로젝트
-
-- **[humanizer-kr](https://github.com/hjongc/humanizer-kr)** — AI 티 나는 한국어를 사람 말처럼, 맥락에 맞게 고치는 Codex·Claude Code 스킬
-- **[seat-chance](https://seat-chance.vercel.app)** — 서울 지하철에서 앉을 가능성이 높은 칸과 문 위치를 추천하는 웹 서비스
+- **[humanizer-kr](https://github.com/hjongc/humanizer-kr)** — AI 티 나는 한국어를 자연스럽게 고치는 Codex·Claude Code 스킬
+- **[seat-chance](https://seat-chance.vercel.app)** — 서울 지하철에서 앉기 좋은 칸을 추천하는 웹 서비스
+- **[휙(H-uick)](https://github.com/hjongc/H-uick)** — 대화 캡처로 차용증을 만드는 서비스 (삼성 청년 SW 아카데미 프로젝트 우수상)
 
 ## 활동
 
-- 2026 — 강원대 AI DC Bootcamp 멘토, 사내 AI Master Project 멘토
-- 2026 — RecruitFirst Korea AX 인터뷰 게재 (도메인 기반 에이전트 개발 경험)
-- 2025 — 사내 AI 해커톤 3위 (AI 에이전트와 MCP를 활용한 개발 산출물 자동화)
+- 강원대 AI DC Bootcamp 멘토, 사내 AI Master Project 멘토 (2026)
+- RecruitFirst Korea AX 인터뷰 게재 (2026)
+- 사내 AI 해커톤 3위 (2025)
 
 ## 기술
 
-- **AI 에이전트** — LLM 에이전트 설계, 골든 데이터 구축과 오프라인 평가, Python, LangGraph, FastAPI
-- **데이터** — Flink, Kafka, Oracle GoldenGate(CDC), SQL
+Python, LangGraph, FastAPI, Flink, Kafka, SQL
 
 ## 자격증
 
-- 빅데이터분석기사
-- SQLD
+빅데이터분석기사, SQLD
